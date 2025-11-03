@@ -69,3 +69,13 @@ Ensure the `iris.txt` file is in the same directory as the executable.
 
 3.  **Follow the prompts:**
     Enter the number of groups (clusters) and the number of iterations when requested.
+
+## 👨‍💻 Autores
+
+Este projeto foi feito por:
+This project was made by:
+
+| [![github.com/RyanPAlvim](https://img.shields.io/badge/GitHub-RyanPAlvim-181717?style=for-the-badge&logo=github)](https://github.com/RyanPAlvim) | [![github.com/davimoljo](https://img.shields.io/badge/GitHub-davimoljo-181717?style=for-the-badge&logo=github)](https://github.com/davimoljo) | [![github.com/Matheus-Rocha](https://img.shields.io/badge/GitHub-Matheus-Rocha-181717?style=for-the-badge&logo=github)](https://github.com/Matheus-Rocha) |
+| :---: |:------------------------------------------------------------------------------------------------------------------------------------------------:| :---: |
+| [Ryan Alvim](https://github.com/RyanPAlvim) |                                                   [Davi Moljo](https://github.com/davimoljo)                                                    | [Matheus Rocha](https://github.com/Matheus-Rocha) |
+
